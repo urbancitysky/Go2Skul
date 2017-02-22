@@ -1,5 +1,7 @@
 Go2Skul
 ==================
-Schola development practice
+Schola development warm-up project
 
 HTML5 / CSS / Javascript
+
+Express Server
