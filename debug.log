@@ -1,0 +1,2 @@
+[0220/222444.101:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0220/222444.101:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: The pipe is being closed. (0xE8)
