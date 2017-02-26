@@ -7,11 +7,11 @@ serverApp.get('/', function(req, res) {
 });
 
 
-
-
 serverApp.listen(serverApp.get('port'), function() {
     console.log('serverApp listening on port ' + serverApp.get('port') + ' \npress ctrl+C to terminate');
 });
+
+
 
 module.exports=router;
 var client = require('mongodb').MongoClient;
