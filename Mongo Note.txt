@@ -1,0 +1,7 @@
+
+change data path
+"C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe" --dbpath "C:\Users\urban_000\Dropbox\Sean's NB's\Source code\Go2Skul\mongodb data"
+
+
+Start MongoDB.
+"C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe"

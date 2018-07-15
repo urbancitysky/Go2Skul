@@ -1,7 +1,10 @@
-Go2Skul
-==================
-Schola development warm-up project
+## Go2Skul !
 
-HTML5 / CSS / Javascript
+This [Schola](https://github.com/chunyenHuang/schola) warm-up project. 
 
-Express Server
+## Technologies
+
++ `HTML` / `CSS` / `Javascript`
++ `Note.js` / `Express` 
++ `MongoDB`
+
