@@ -1,6 +1,6 @@
 ## Go2Skul !
 
-This [Schola](https://github.com/chunyenHuang/schola) warm-up project. 
+This a warm-up project pulled from [Schola](https://github.com/chunyenHuang/schola). 
 
 ## Technologies
 
